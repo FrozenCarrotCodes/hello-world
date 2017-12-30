@@ -1,2 +1,2 @@
 # hello-world
-The Hello World project from the tutorial!
+The Hello World project from the tutorial. ;)
